@@ -111,6 +111,14 @@
 //       }
 //     }
 
+// assigment no 16
+// function clickme(){
+//             var userasns=document.getElementById('usertext').value
+//             var userword =userasns.split("")
+//             var results=document.getElementById('result')
+//             results.innerHTML =userword
+//         }
+
 // assigment no 21
 //  function clickme(){
 //         var userasns=document.getElementById('usertext').value
@@ -137,17 +145,62 @@
 //         }
 
 //assigment no 25
-// // function clickme(){
+// function clickme(){
 
 //             var userstext=document.getElementById('usertext').value
 //             var results=document.getElementById('result')
-//             results.innerHTML =userstext.replace("i","we")
+//             results.innerHTML =userstext.replace("i","w")
 //         }
 
 //assigment no 26
 // function clickme(){
 //     var userstext=document.getElementById('usertext').value
 //     var results=document.getElementById('result')
+//     results.innerHTML =userstext.replace("s","p")
+// }
+
+//assigment no 30
+// function clickme(){
+//                 var userasns=document.getElementById('usertext').value
+//                 var userword =userasns.split(" ")
+//                 var results=document.getElementById('result')
+//                 results.innerHTML =userword
+//             }
+    
+// assigment no 32
+// function clickme(){
+
+//     var userstext=document.getElementById('usertext').value
+//     var results=document.getElementById('result')
+//     results.innerHTML =userstext.replace("i","we")
+// }
+
+// assigment no 33
+// function clickme(){
+
+//     var userstext=document.getElementById('usertext').value
+//     var results=document.getElementById('result')
 //     results.innerHTML =userstext.replace("js","php")
 // }
 
+//assigment no 34
+// function clickme(){
+//     var userstext=document.getElementById('usertext').value
+//     var results=document.getElementById('result')
+//     results.innerHTML =`result: there is nothing to show`
+// }
+
+
+// assigment no 35
+// function clickme(){
+//     var userstext=document.getElementById('usertext').value
+//     var results=document.getElementById('result')
+//     results.innerHTML =userstext.trim()
+// }
+
+// assigment no 35
+// function clickme(){
+//     var userstext=document.getElementById('usertext').value
+//     var results=document.getElementById('result')
+//     results.innerHTML =userstext.trim()
+// }
