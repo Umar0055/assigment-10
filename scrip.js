@@ -72,12 +72,14 @@
 
 //assigment no 10
 // function clickme(){
-//     var userasns=document.getElementById('usertext').value
-//     var results=document.getElementById('result')
-//     for(var i =0;i<=userasns.length;i++){
-//         results.innerHTML=`result :total num in this string is ${i}`
-//     }
-// }
+//     var userstext=document.getElementById('usertext').value
+//       var results=document.getElementById('result')
+//       var userstexts=userstext.split(" ").slice(1).toString()
+//       for(var i =0;i<=userstexts.length;i++){
+//                 results.innerHTML=`${userstexts} have ${i}`
+//             }
+// } 
+
 
 // assigment no 11
 // function clickme(){
@@ -166,22 +168,32 @@
 //                 var results=document.getElementById('result')
 //                 results.innerHTML =userword
 //             }
+
+//assigment no 31
+// function clickme(){
+//     var userstext=document.getElementById('usertext').value
+//       var results=document.getElementById('result')
+//       var userstexts=userstext.split(" ")
+//       for(var i =0;i<=userstexts.length;i++){
+//                 results.innerHTML=`${userstexts} have ${i}`
+//             }
+// } 
     
 // assigment no 32
 // function clickme(){
-
 //     var userstext=document.getElementById('usertext').value
 //     var results=document.getElementById('result')
-//     results.innerHTML =userstext.replace("i","we")
+//     results.innerHTML =`first word is remove and last word is ${userstext.split(" ").slice(1)}`
 // }
 
 // assigment no 33
-// function clickme(){
-
-//     var userstext=document.getElementById('usertext').value
-//     var results=document.getElementById('result')
-//     results.innerHTML =userstext.replace("js","php")
-// }
+//  function clickme(){
+//         var userstext=document.getElementById('usertext').value
+//         var results=document.getElementById('result')
+//         var userstexts= userstext.split(" ").slice(0,1).toString()
+//         results.innerHTML =`last word is remove and first word is ${userstexts.split(" ")}`
+//     }
+    
 
 //assigment no 34
 // function clickme(){
